@@ -9,5 +9,8 @@ It is hard for me to say which programming language I do prefer! but if I had th
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmilul" />
+  
+ 
 </a>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmilu)](https://github.com/anuraghazra/github-readme-stats)
 
