@@ -12,5 +12,4 @@ It is hard for me to say which programming language I do prefer! but if I had th
 </a>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmilul)](https://github.com/anuraghazra/github-readme-stats)
 
