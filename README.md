@@ -13,6 +13,6 @@ It is hard for me to say which programming language I do prefer! but if I had th
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmilul&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmilul" />
 </a>
 
